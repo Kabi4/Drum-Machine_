@@ -1,0 +1,11 @@
+body{
+	background:black;
+	position:relative;
+	color:white;
+}
+#drum-machine{
+	position:absolute;
+	background:lightgreen;
+	top:200px;
+	left:10%;
+}
